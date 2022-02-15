@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4fe3ec42-a76b-7127-8d8a-21355578a611
 ---
@@ -35,7 +38,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -45,7 +48,7 @@ None
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk2))
 {{< tdclose >}}
 
@@ -61,7 +64,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -72,7 +75,7 @@ None
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk3))
 {{< tdclose >}}
 
@@ -88,7 +91,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -99,7 +102,7 @@ None
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk4))
 {{< tdclose >}}
 
@@ -116,7 +119,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -127,7 +130,7 @@ None
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk5))
 {{< tdclose >}}
 
@@ -145,13 +148,13 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
 None (holiday)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk6))
 {{< tdclose >}}
 
@@ -167,7 +170,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -178,7 +181,7 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk7))
 {{< tdclose >}}
 
@@ -194,7 +197,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -205,7 +208,7 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk8))
 {{< tdclose >}}
 
@@ -222,7 +225,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -232,7 +235,7 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk9))
 {{< tdclose >}}
 
@@ -249,7 +252,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -260,7 +263,7 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk10))
 {{< tdclose >}}
 
@@ -278,7 +281,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -290,7 +293,7 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk11))
 {{< tdclose >}}
 
@@ -308,10 +311,10 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 *   Lisez les pages 228 à 234 dans _Les Français_ sur la formation de l'Europe. Répondez aux questions pages 4\* et 5\*.
@@ -319,14 +322,14 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk12))
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -337,7 +340,7 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk13))
 {{< tdclose >}}
 
@@ -355,7 +358,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -365,7 +368,7 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 ([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk14_15))
 {{< tdclose >}}
 
