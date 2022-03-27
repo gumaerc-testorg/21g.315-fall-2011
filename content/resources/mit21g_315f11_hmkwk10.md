@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4fe3ec42-a76b-7127-8d8a-21355578a611
 resourcetype: Document
 title: Week 10 Homework
 uid: 1924c152-1d16-c298-8461-c62181f0cb7c

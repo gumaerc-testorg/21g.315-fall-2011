@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4fe3ec42-a76b-7127-8d8a-21355578a611
 resourcetype: Document
 title: 'Week 5 Homework '
 uid: b5e5f723-58bb-e220-369b-6e89cd6cb3c8

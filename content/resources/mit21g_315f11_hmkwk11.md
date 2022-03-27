@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4fe3ec42-a76b-7127-8d8a-21355578a611
 resourcetype: Document
 title: Week 11 Homework
 uid: 161d5576-52ee-1e79-b276-c91920cfc720
