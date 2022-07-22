@@ -8,6 +8,7 @@ file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-societ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Week 11 Homework
 uid: 161d5576-52ee-1e79-b276-c91920cfc720
 ---
 This resource contains information related to Lisez Les Français, de la page 135 ("Les Américains qui séjournent en France…") à la page 140 ("… et à vivre en cohabitation avec leur nouveau partenaire"). Répondez aux questions page 3*.
-

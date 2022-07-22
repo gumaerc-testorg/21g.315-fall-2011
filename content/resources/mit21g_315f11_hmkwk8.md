@@ -6,6 +6,7 @@ file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-societ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Week 8 Homework
 uid: b425f71a-d4d9-cc34-3caa-65402ac6d4fc
 ---
 This resource contains information related to Lisez dans Les Français les pages 210 à 220. Répondez aux questions page 2*.
-

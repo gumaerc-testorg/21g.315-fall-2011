@@ -9,6 +9,7 @@ file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-societ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Week 9 Homework
 uid: 780f74dc-c27e-2dae-5083-b383efad884c
 ---
 This resource contains information related to Petit test, pendant les 30 premières minutes de cours. Relisez le livre, vos notes et vos devoirs des semaines passées sur la religion, l’immigration, le travail. Vous pouvez apporter un dictionnaire si vous voulez. Le format sera le même que pour le premier test.
-

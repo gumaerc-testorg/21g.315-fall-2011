@@ -6,6 +6,7 @@ file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-societ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Week 13 Homework
 uid: 3735b9d2-d252-65c7-8522-d3cb866a1762
 ---
 This resource contains information related to Avancez votre travail sur votre projet final. Apportez tous vos documents en classe pour pouvoir travailler.
-

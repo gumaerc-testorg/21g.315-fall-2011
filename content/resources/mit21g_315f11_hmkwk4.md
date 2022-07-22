@@ -7,6 +7,7 @@ file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-societ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Week 4 Homework
 uid: 19f2453b-3d84-716c-2861-1e46435584e1
 ---
 This resource contains information related to lisez dans Les Français les pages 81 à 85, sur la famille traditionnelle. Répondez aux questions page 2*.
-

@@ -8,6 +8,7 @@ file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-societ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Week 3 Homework
 uid: c07a18da-00fc-d926-04e2-98bcc753247c
 ---
 This resource contains information related top les symboles. Regardez la page de photos que je vous ai donnée en classe le jeudi 15. Notez quels symboles vos photos représentent. Vous pouvez utiliser la liste page 2* si besoin pour vous aider.
-

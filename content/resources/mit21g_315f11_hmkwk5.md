@@ -8,6 +8,7 @@ file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-societ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Week 5 Homework '
 uid: b5e5f723-58bb-e220-369b-6e89cd6cb3c8
 ---
 This resource contains information related to Vu dans l’actualité. Un/e volontaire (désigné/e à l’avance) poste sur le Forum un document en rapport avec le thème étudié cette semaine. Regarde page 6* pour voir comment procéder.
-

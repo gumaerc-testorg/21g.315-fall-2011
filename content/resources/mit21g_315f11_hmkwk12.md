@@ -7,6 +7,7 @@ file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-societ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Week 12 Homework
 uid: b79b814b-1005-2dcb-52ac-72b2af3e206c
 ---
 This resource contains information related to Lisez les pages 228 à 234 dans Les Français sur la formation de l’Europe. Répondez aux questions pages 4* et 5*.
-

@@ -7,6 +7,7 @@ file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-societ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Week 10 Homework
 uid: 1924c152-1d16-c298-8461-c62181f0cb7c
 ---
 This resource contains information related to Regardez le document suivant: Fourquet, J. "Barométre Jeunesse: Vague 3." IFOP, 2011. Faites le travail indiqué page 2*.
-
