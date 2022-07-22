@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, prerequisites, requirements, attendance, grading, and a statement
+  on plagiarism.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6142d415-1f07-1b07-c0b6-05ac262ec6b4
 ---
@@ -154,7 +159,7 @@ TOPICS
 {{< tdopen >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 La France en septembre 2011. De qui et de quoi parlent les médias?
 {{< tdclose >}}
 
@@ -259,7 +264,7 @@ Le système politique: la France et l'Europe
 {{< tdopen >}}
 13
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Travail sur le projet comparatif, présentations
 {{< tdclose >}}
 

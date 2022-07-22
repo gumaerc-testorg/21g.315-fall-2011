@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4fe3ec42-a76b-7127-8d8a-21355578a611
 ---
@@ -35,7 +39,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -45,8 +49,8 @@ None
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk2))
+{{< tdopen rowspan="2" >}}
+({{% resource_link 4451e519-aec3-fe92-aa24-4233a644d9fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +65,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -72,8 +76,8 @@ None
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk3))
+{{< tdopen rowspan="2" >}}
+({{% resource_link c07a18da-00fc-d926-04e2-98bcc753247c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +92,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -99,8 +103,8 @@ None
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk4))
+{{< tdopen rowspan="2" >}}
+({{% resource_link 19f2453b-3d84-716c-2861-1e46435584e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +120,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -127,8 +131,8 @@ None
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk5))
+{{< tdopen rowspan="2" >}}
+({{% resource_link b5e5f723-58bb-e220-369b-6e89cd6cb3c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,14 +149,14 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
 None (holiday)
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk6))
+{{< tdopen rowspan="2" >}}
+({{% resource_link cfea3adf-6d1b-3ad5-14e8-f2fdeb2ff311 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +171,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -178,8 +182,8 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk7))
+{{< tdopen rowspan="2" >}}
+({{% resource_link db092762-77e7-104c-605a-656c7e79f622 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +198,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -205,8 +209,8 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk8))
+{{< tdopen rowspan="2" >}}
+({{% resource_link b425f71a-d4d9-cc34-3caa-65402ac6d4fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +226,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -232,8 +236,8 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk9))
+{{< tdopen rowspan="2" >}}
+({{% resource_link 780f74dc-c27e-2dae-5083-b383efad884c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +245,7 @@ None (holiday)
 {{< tdopen >}}
 
 
-*   Regardez sur [Readings]({{< baseurl >}}/pages/readings) l'enquête réalisée par la Fondation pour l'innovation politique sur "_Les jeunesses face à leur avenir_". Elle compare l'attitude des jeunes dans 17 pays. Les pages 104 à 112 parlent plus particulièrement des jeunes Français, et les pages 143 à 146 parlent des jeunes Américains. Répondez aux questions pages 2\* et 3\*.
+*   Regardez sur {{% resource_link bf6cc423-9170-9d2c-fd1b-8c8d645f6de3 "Readings" %}} l'enquête réalisée par la Fondation pour l'innovation politique sur "_Les jeunesses face à leur avenir_". Elle compare l'attitude des jeunes dans 17 pays. Les pages 104 à 112 parlent plus particulièrement des jeunes Français, et les pages 143 à 146 parlent des jeunes Américains. Répondez aux questions pages 2\* et 3\*.
 *   Regardez page 4\* la description du projet de fin de semestre. Notez par écrit page 4 deux sujets possibles sur lesquels vous aimeriez travailler.
 
 
@@ -249,19 +253,19 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-*   Regardez le document suivant: Fourquet, J. "Barométre Jeunesse: Vague 3." IFOP, 2011. Faites le travail indiqué page 2\*. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ifop.com/media/poll/1584-1-study_file.pdf))
+*   Regardez le document suivant: Fourquet, J. "Barométre Jeunesse: Vague 3." IFOP, 2011. Faites le travail indiqué page 2\*. ([PDF](http://www.ifop.com/media/poll/1584-1-study_file.pdf))
 *   _En classe aujourd'hui vous essaierez de préciser votre sujet pour le projet de fin de semestre et de trouver un partenaire_.
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk10))
+{{< tdopen rowspan="2" >}}
+({{% resource_link 1924c152-1d16-c298-8461-c62181f0cb7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -278,7 +282,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -290,8 +294,8 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk11))
+{{< tdopen rowspan="2" >}}
+({{% resource_link 161d5576-52ee-1e79-b276-c91920cfc720 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,10 +312,10 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 *   Lisez les pages 228 à 234 dans _Les Français_ sur la formation de l'Europe. Répondez aux questions pages 4\* et 5\*.
@@ -319,14 +323,14 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk12))
+{{< tdopen rowspan="2" >}}
+({{% resource_link b79b814b-1005-2dcb-52ac-72b2af3e206c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -337,8 +341,8 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk13))
+{{< tdopen rowspan="2" >}}
+({{% resource_link 3735b9d2-d252-65c7-8522-d3cb866a1762 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -355,7 +359,7 @@ None (holiday)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -365,8 +369,8 @@ None (holiday)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk14_15))
+{{< tdopen rowspan="3" >}}
+({{% resource_link 950fcce9-9e8a-6b9c-129d-2dc128907764 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
