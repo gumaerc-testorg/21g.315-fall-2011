@@ -5,6 +5,7 @@ description: "This resource contains information related top les symboles. Regar
   \ symboles vos photos repr\xE9sentent. Vous pouvez utiliser la liste page 2* si\
   \ besoin pour vous aider."
 file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/c07a18da00fcd92604e298bcc753247c_MIT21G_315F11_hmkwk3.pdf
+file_size: 279347
 file_type: application/pdf
 learning_resource_types:
 - Assignments
