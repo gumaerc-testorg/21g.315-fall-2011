@@ -4,6 +4,7 @@ description: "This resource contains information related to Regardez le document
   \ Fourquet, J. \"Barom\xE9tre Jeunesse: Vague 3.\" IFOP, 2011. Faites le travail\
   \ indiqu\xE9 page 2*."
 file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/1924c1521d16c2988461c62181f0cb7c_MIT21G_315F11_hmkwk10.pdf
+file_size: 138085
 file_type: application/pdf
 learning_resource_types:
 - Assignments

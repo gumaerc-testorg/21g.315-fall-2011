@@ -5,6 +5,7 @@ description: "This resource contains information related to Vu dans l\u2019actua
   \ en rapport avec le th\xE8me \xE9tudi\xE9 cette semaine. Regarde page 6* pour voir\
   \ comment proc\xE9der."
 file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/b5e5f72358bbe220369b6e89cd6cb3c8_MIT21G_315F11_hmkwk5.pdf
+file_size: 173645
 file_type: application/pdf
 learning_resource_types:
 - Assignments
