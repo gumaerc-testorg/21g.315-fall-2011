@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to Lisez les pages 261 \xE0\
   \ 273 dans Les Fran\xE7ais, sur la religion, et r\xE9pondez aux questions page 2*."
-file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/cfea3adf6d1b3ad514e8f2fdeb2ff311_MIT21G_315F11_hmkwk6.pdf
+file: /ol-ocw-studio-app/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/cfea3adf6d1b3ad514e8f2fdeb2ff311_MIT21G_315F11_hmkwk6.pdf
 file_size: 130828
 file_type: application/pdf
 learning_resource_types:
