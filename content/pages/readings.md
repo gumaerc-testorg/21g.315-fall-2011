@@ -13,7 +13,7 @@ Wylie, Laurence, and Jean-Francois Brière. *Les Français*. 3rd ed. Prentice Ha
 
 ## Week #1
 
-Deux bandes dessinées d'Astérix, [www.asterix.fr](http://www.asterix.fr/).
+Deux bandes dessinées d'Astérix
 
 ## Week #2
 
@@ -51,7 +51,7 @@ Cantet, Laurent. *Entre les murs/The class.* Palme d'or au festival de Cannes, 2
 
 ## Week #6 — La religion et la laïcité
 
-Wikipédia. "[L'affaire de Creil (septembre 1989)](http://fr.wikipedia.org/wiki/Voile_islamique_dans_les_%C3%A9coles_en_France#L.27affaire_de_Creil_.28septembre_1989.29)." Subsection of the page "[Voile islamique dans les écoles en France](http://fr.wikipedia.org/wiki/Voile_islamique_dans_les_écoles_en_France)."
+Wikipédia. "[L'affaire de Creil (septembre 1989)](http://fr.wikipedia.org/wiki/Voile_islamique_dans_les_%C3%A9coles_en_France#L.27affaire_de_Creil_.28septembre_1989.29)." Subsection of the page "[Voile islamique dans les écoles en France](http://fr.wikipedia.org/wiki/Voile_islamique_dans_les_%C3%A9coles_en_France)."
 
 Joffrin, L. et S. Pierre-Brossolette. "[Une loi anti-burqa: républicain ou démago?](http://www.liberation.fr/politiques/06011042-une-loi-anti-burqa-republicain-ou-demago)" Audio recording. *Libération*, 19 juin , 2009.
 
@@ -69,13 +69,13 @@ Fourquet, J. "Analyse: Le catholicisme en France en 2010." IFOP, 2010. ([PDF](ht
 
 ## Week #7 — L'immigration
 
-[Je crois que ça va pas être possible](http://musique.ados.fr/Zebda/Je-Crois-Que-Ca-Va-Pas-Etre-Possible-t1710.html), de Zebda
+Je crois que ça va pas être possible, de Zebda
 
-[Je suis un jeune de banlieue](http://musique.ados.fr/Disiz/videos/disiz-la-peste-jeune-de-banlieue.html), Disiz la Peste
+Je suis un jeune de banlieue, Disiz la Peste
 
-[J'y suis j'y reste](http://musique.ados.fr/Zebda/J-Y-Suis-J-Y-Reste-t13464.html), Zebda
+J'y suis j'y reste, Zebda
 
-[Ma France à moi](http://musique.ados.fr/Diam-S/Ma-France-A-Moi-t42452.html), Diam's
+Ma France à moi, Diam's
 
 Gabizon, C. "[L'école fragilisée par le communautarisme](http://www.lefigaro.fr/actualite-france/2010/10/24/01016-20101024ARTFIG00139-l-ecole-fragilisee-par-le-communautarisme.php)." *Le Figaro*, 24 octobre, 2010.
 
@@ -83,7 +83,7 @@ AFP. "[Expulsions: Guéant attend un «résultat historique» en 2011](http://ww
 
 ## Week #8 — L'économie, le travail et les loisirs
 
-Meda, D. "[Les Français et le travail](http://www.ph-guillon.com/spip.php?article118)." *Le Nouvel Observateur,* 22 avril 2010.
+Meda, D. "[Les Français et le travail](https://www.researchgate.net/publication/248864205_Les_Francais_et_le_travail_une_relation_singuliere)." *Le Nouvel Observateur,* 22 avril 2010.
 
 "Productivité: les Etats-Unis et la France sont en tête et creusent l'écart." AFP, 20 septembre 2011.
 
@@ -131,7 +131,7 @@ Hater, F. "[À quoi rêvent les femmes américaines](http://www.lefigaro.fr/voya
 
 Cohen, M. and P. Trippenbach. "[Dominique Strauss-Kahn: la négociation de sa vie](https://web.archive.org/web/20111122013513/http://blog.citizenside.com/2011/05/19/dominique-strauss-kahn-dans-la-bataille-judiciaire/)." *CitizenSide Blog*, 19 mai, 2011.
 
-"[Affaire DSK : justice américaine, mode d'emploi](http://archives-lepost.huffingtonpost.fr/article/2011/05/16/2496423_affaire-dsk-justice-americaine-mode-d-emploi.html)." *Le Post*, 18 mai, 2011.
+"Affaire DSK : justice américaine, mode d'emploi." *Le Post*, 18 mai, 2011.
 
 Bouin, J. "[Affaire DSK: la gauche critique la justice américaine](http://www.lefigaro.fr/politique/2011/05/17/01002-20110517ARTFIG00459-affaire-dsk-la-justice-americaine-cible-de-la-gauche.php)." *Le Figaro*, 17 mai, 2011.
 
@@ -153,11 +153,11 @@ Le Marché Commun
 
 [Europa, le site web officiel de l'Union européenne](http://europa.eu/index_fr.htm)
 
-[Carte des 27 états membres](http://www.touteleurope.eu/fr/organisation/etats-membres/les-etats-membres-en-quelques-mots/presentation/carte-des-27-etats-membres.html)
+Carte des 27 états membres
 
-[Les 17 pays membres de la zone euro](http://www.touteleurope.eu/fr/actions/economie/euro/presentation/les-pays-membres-de-la-zone-euro.html)
+Les 17 pays membres de la zone euro
 
-[Carte de l'Europe économique](http://www.touteleurope.eu/fr/actions/economie/politique-economique/presentation/carte-l-europe-economique.html)
+Carte de l'Europe économique
 
 [L'Europe et vous](http://ec.europa.eu/snapshot/index_fr.htm)
 
