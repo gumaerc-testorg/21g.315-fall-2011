@@ -25,9 +25,9 @@ L'objectif de ce cours est de vous aider à mieux connaître et comprendre la so
 
 Vous lirez également des textes, articles et documents divers qui vous seront distribués ou auxquels vous aurez accès en ligne. Il y aura également quelques vidéos à voir.
 
-Je vous encourage à regarder des films français en ligne (sur Netflix par exemple) ou sur place au Foreign Languages Resource Center. Le catalogue est à: http://fll.mit.edu/materials/catalogue/French. Il y a souvent des films français récents au Kendall theater, je les annoncerai.
+Je vous encourage à regarder des films français en ligne (sur Netflix par exemple) ou sur place au Foreign Languages Resource Center. Le catalogue est à: [http://fll.mit.edu/materials/catalogue/French](http://fll.mit.edu/materials/catalogue/French). Il y a souvent des films français récents au Kendall theater, je les annoncerai.
 
-Pendant toute la durée du semestre, vous devrez régulièrement lire la presse ([Le Figaro](http://www.lefigaro.fr/), [Le Monde](http://www.lemonde.fr/), [Libération](http://www.liberation.fr/)) ou regarder des journaux télévisés ([France 2](http://france2.fr/), [TV5](http://www.tv5.org/)) , ou la radio ([Radio France Internationale](http://www.rfi.fr/)).
+Pendant toute la durée du semestre, vous devrez régulièrement lire la presse ([Le Figaro](http://www.lefigaro.fr/), [Le Monde](http://www.lemonde.fr/), [Libération](http://www.liberation.fr/)) ou regarder des journaux télévisés ([France 2](https://www.france.tv/france-2/), [TV5](http://www.tv5.org/)) , ou la radio ([Radio France Internationale](http://www.rfi.fr/)).
 
 Il y aura, en parallèle, un travail de développement du vocabulaire (par le biais de vos lectures et des listes de vocabulaire que vous établirez) et de grammaire communicative, en function de vos besoins. Il y a d'excellents sites de grammaire et de conjugaison en ligne ([Tex's French Grammar, Le Point du FLE, Exercices ELFE](http://www.laits.utexas.edu/tex/gr/index.html)), apprenez à les utiliser. Nous en explorerons quelques-uns ensemble pour que vous puissiez travailler indépendamment.
 
