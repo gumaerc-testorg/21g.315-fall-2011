@@ -5,7 +5,7 @@ description: "This resource contains information related to Petit test, pendant 
   \ semaines pass\xE9es sur la religion, l\u2019immigration, le travail. Vous pouvez\
   \ apporter un dictionnaire si vous voulez. Le format sera le m\xEAme que pour le\
   \ premier test."
-file: /ol-ocw-studio-app/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/780f74dcc27e2dae5083b383efad884c_MIT21G_315F11_hmkwk9.pdf
+file: /courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/780f74dcc27e2dae5083b383efad884c_MIT21G_315F11_hmkwk9.pdf
 file_size: 198860
 file_type: application/pdf
 learning_resource_types:
