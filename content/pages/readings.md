@@ -25,25 +25,25 @@ Handout passed out in class: LES SYMBOLES, IMAGES ET NOMS. For the content in th
 
 ## Week #4 — La famille
 
-Serafini, T. "[Le bébé, exception française](http://www.liberation.fr/societe/0101309409-le-bebe-exception-francaise)." *Libération*, 5 janvier 2009.
+Serafini, T. "{{% resource_link "9efb2134-1658-4d9b-80fe-5b8f442692bd" "Le bébé, exception française" %}}." *Libération*, 5 janvier 2009.
 
-"[3,3 millions d'enfants ne vivent plus avec leurs deux parents](http://www.liberation.fr/vous/0101596159-3-3-million-d-enfants-ne-vivent-plus-avec-leurs-)." *Libération*, 9 octobre 2009.
+"{{% resource_link "72e01c3e-bfae-40a1-bdef-1c51c26b1f79" "3,3 millions d'enfants ne vivent plus avec leurs deux parents" %}}." *Libération*, 9 octobre 2009.
 
-de Mallevoüe, D. "[Les parents toujours adeptes de la fessée](http://www.lefigaro.fr/actualites/2007/12/06/01001-20071206ARTFIG00010-les-parents-toujours-adeptes-de-la-fessee.php)." *Le Figaro*, 6 juin 2007.
+de Mallevoüe, D. "{{% resource_link "d56e4bb0-058b-49d3-bf5f-7175dc37513f" "Les parents toujours adeptes de la fessée" %}}." *Le Figaro*, 6 juin 2007.
 
-Chemin, A. "[Enfants, mariages, divorces: la révolution familiale](http://www.lemonde.fr/web/imprimer_element/0,40-0@2-3230,50-734959,0.html)." *Le Monde*, 27 javier 2006.
+Chemin, A. "{{% resource_link "ac35f1f0-7c95-4545-b9bd-53aeedfa5e9a" "Enfants, mariages, divorces: la révolution familiale" %}}." *Le Monde*, 27 javier 2006.
 
 Carroll, Raymonde. *Évidences Invisibles: Américains et Français au quotidien*. Seuil, 1987, pp. 67–89. ISBN: 9782020096379.
 
 ## Week #5 — L'école
 
-"[Procédure Conventions Education Prioritaire](http://admissions.sciences-po.fr/college-cep)." Sciences-Po.fr.
+"{{% resource_link "bd57ce02-08f1-4ebb-a1ce-d52bdb62ac04" "Procédure Conventions Education Prioritaire" %}}." Sciences-Po.fr.
 
-"[Une grande école: pourquoi pas moi?](https://web.archive.org/web/20130519105546/http://egalite-des-chances.essec.edu/page-fille-1/une-grande-ecole-pourquoi-pas-moi)" ESSEC.edu.
+"{{% resource_link "2cf301a5-9ccf-4448-afa5-536c66c6c6af" "Une grande école: pourquoi pas moi?" %}}" ESSEC.edu.
 
 "Tarifs pour l'année 2011-2012." Notre-Dame des Oiseaux, 2011.
 
-Pech, M.-E. “[Rythmes scolaires: une pause déjeuner de 1h30 obligatoire](http://www.lefigaro.fr/actualite-france/2010/08/26/01016-20100826ARTFIG00636-rythmes-scolaires-une-pause-dejeuner-de-1h30-obligatoire.php)." *Le Figaro*, 27 août, 2010.
+Pech, M.-E. “{{% resource_link "a0996d05-81fa-4bba-aade-8d1421402de3" "Rythmes scolaires: une pause déjeuner de 1h30 obligatoire" %}}." *Le Figaro*, 27 août, 2010.
 
 Philibert, Nicolas. *Etre et Avoir/ To Be and to Have*. Film documentaire, 2002.
 
@@ -51,21 +51,21 @@ Cantet, Laurent. *Entre les murs/The class.* Palme d'or au festival de Cannes, 2
 
 ## Week #6 — La religion et la laïcité
 
-Wikipédia. "[L'affaire de Creil (septembre 1989)](http://fr.wikipedia.org/wiki/Voile_islamique_dans_les_%C3%A9coles_en_France#L.27affaire_de_Creil_.28septembre_1989.29)." Subsection of the page "[Voile islamique dans les écoles en France](http://fr.wikipedia.org/wiki/Voile_islamique_dans_les_%C3%A9coles_en_France)."
+Wikipédia. "{{% resource_link "156c42f6-1616-4f07-8677-05e8c1f6b9ae" "L'affaire de Creil (septembre 1989)" %}}." Subsection of the page "{{% resource_link "ab4517a9-8529-454b-8b65-d9ebe8426f39" "Voile islamique dans les écoles en France" %}}."
 
-Joffrin, L. et S. Pierre-Brossolette. "[Une loi anti-burqa: républicain ou démago?](http://www.liberation.fr/politiques/06011042-une-loi-anti-burqa-republicain-ou-demago)" Audio recording. *Libération*, 19 juin , 2009.
+Joffrin, L. et S. Pierre-Brossolette. "{{% resource_link "2dc44a49-92d0-4ceb-860f-dc982e1459de" "Une loi anti-burqa: républicain ou démago?" %}}" Audio recording. *Libération*, 19 juin , 2009.
 
-Lorriaux, A. "[L'interdiction des prières de rue globalement respectée](http://www.lefigaro.fr/actualite-france/2011/09/16/01016-20110916ARTFIG00610-l-interdiction-des-prieres-de-rue-globalement-respectee.php)." *Le Figaro*, 16 septembre, 2011.
+Lorriaux, A. "{{% resource_link "86f0c4ef-9660-4283-a6ca-f5a7ecf92d1d" "L'interdiction des prières de rue globalement respectée" %}}." *Le Figaro*, 16 septembre, 2011.
 
-"[Définition de la laïcité](http://web.archive.org/web/20090427184515/http:/www.france5.fr/actu_societe/W00137/9/102193.cfm)." *France 5*.
+"{{% resource_link "7c0c1012-27f2-4576-9116-d09f11482519" "Définition de la laïcité" %}}." *France 5*.
 
-Mollaret, G. "[Nicolas Sarkozy fait l'éloge de la liberté de conscience](http://www.lefigaro.fr/politique/2011/10/04/01002-20111004ARTFIG00506-nicolas-sarkozy-fait-l-eloge-de-la-liberte-de-conscience.php)." *Le Figaro*, 04 octobre, 2011.
+Mollaret, G. "{{% resource_link "1c6a3142-fdea-4c35-b9f4-a8a995498d8a" "Nicolas Sarkozy fait l'éloge de la liberté de conscience" %}}." *Le Figaro*, 04 octobre, 2011.
 
-Vompouille, T. "[France: comment est évalué le nombre de musulmans](http://www.lefigaro.fr/actualite-france/2011/04/05/01016-20110405ARTFIG00599-france-comment-est-evalue-le-nombre-de-musulmans.php)." *Le Figaro*, 7 avril, 2011.
+Vompouille, T. "{{% resource_link "5d678fd5-5198-4e16-b374-a009b7ad7549" "France: comment est évalué le nombre de musulmans" %}}." *Le Figaro*, 7 avril, 2011.
 
-de Gaulmyn, I. "[La France reste catholique, mais moins pratiquante](http://www.la-croix.com/Religion/S-informer/Actualite/La-France-reste-catholique-mais-moins-pratiquante-_NG_-2009-12-29-570979)." *La Croix*, 29 décembre, 2009.
+de Gaulmyn, I. "{{% resource_link "5662ad97-3c5b-49fb-be30-7b101a825523" "La France reste catholique, mais moins pratiquante" %}}." *La Croix*, 29 décembre, 2009.
 
-Fourquet, J. "Analyse: Le catholicisme en France en 2010." IFOP, 2010. ([PDF](http://www.ifop.com/media/pressdocument/238-1-document_file.pdf))
+Fourquet, J. "Analyse: Le catholicisme en France en 2010." IFOP, 2010. ({{% resource_link "ce78e2bb-1000-4cb2-aa1d-dff4bcea058b" "PDF" %}})
 
 ## Week #7 — L'immigration
 
@@ -77,51 +77,51 @@ J'y suis j'y reste, Zebda
 
 Ma France à moi, Diam's
 
-Gabizon, C. "[L'école fragilisée par le communautarisme](http://www.lefigaro.fr/actualite-france/2010/10/24/01016-20101024ARTFIG00139-l-ecole-fragilisee-par-le-communautarisme.php)." *Le Figaro*, 24 octobre, 2010.
+Gabizon, C. "{{% resource_link "ec6f112d-fd15-4144-b6f3-8f660cdf35a6" "L'école fragilisée par le communautarisme" %}}." *Le Figaro*, 24 octobre, 2010.
 
-AFP. "[Expulsions: Guéant attend un «résultat historique» en 2011](http://www.liberation.fr/societe/01012353227-expulsions-gueant-attend-un-resultat-historique-en-2011)." *Libération*, 8 août, 2011.
+AFP. "{{% resource_link "8fffebaa-6662-4950-9ef3-d3bdd14e7251" "Expulsions: Guéant attend un «résultat historique» en 2011" %}}." *Libération*, 8 août, 2011.
 
 ## Week #8 — L'économie, le travail et les loisirs
 
-Meda, D. "[Les Français et le travail](https://www.researchgate.net/publication/248864205_Les_Francais_et_le_travail_une_relation_singuliere)." *Le Nouvel Observateur,* 22 avril 2010.
+Meda, D. "{{% resource_link "1097030b-e7ad-47ce-91f1-af9286f75cfa" "Les Français et le travail" %}}." *Le Nouvel Observateur,* 22 avril 2010.
 
 "Productivité: les Etats-Unis et la France sont en tête et creusent l'écart." AFP, 20 septembre 2011.
 
-Lévêque, E. "[Ce que Mitterrand a légué à l'économie française](http://lexpansion.lexpress.fr/economie/ce-que-mitterrand-a-legue-a-l-economie-francaise_246541.html)." *L'Expansion*, 10 mai 2011.
+Lévêque, E. "{{% resource_link "5526b369-f7a2-4929-9632-b018e3eb74f2" "Ce que Mitterrand a légué à l'économie française" %}}." *L'Expansion*, 10 mai 2011.
 
-Guillermard, V. "[Le TGV de La Mecque échappe au duo Alstom-SNCF](http://www.lefigaro.fr/societes/2011/10/26/04015-20111026ARTFIG00631-le-tgv-de-la-mecque-echappe-au-duo-alstom-sncf.php)." *Le Figaro*, 26 octobre, 2011.
+Guillermard, V. "{{% resource_link "08599f40-7ab3-4da4-a6a7-44428d95e7ed" "Le TGV de La Mecque échappe au duo Alstom-SNCF" %}}." *Le Figaro*, 26 octobre, 2011.
 
-———. "[La France a vendu moins d'armes en 2010](http://www.lefigaro.fr/societes/2011/10/26/04015-20111026ARTFIG00535-la-france-a-vendu-moins-d-armes-en-2010.php)." *Le Figaro*, 26 octobre, 2011.
+———. "{{% resource_link "d62b30a4-7c2f-4cfb-9468-43f46039294c" "La France a vendu moins d'armes en 2010" %}}." *Le Figaro*, 26 octobre, 2011.
 
-Hugues, B. "[L'embarrassante Porsche de DSK](http://blog.lefigaro.fr/peopolitique/2011/05/lembarrassante-porsche-de-dsk.html)." *Le Figaro*, 5 mai, 2011.
+Hugues, B. "{{% resource_link "dd84054d-f8c8-4b64-8c89-49de4e879803" "L'embarrassante Porsche de DSK" %}}." *Le Figaro*, 5 mai, 2011.
 
-Petit, G. et M.-C. Afota. "[Les Français, la France, et le tourisme](https://web.archive.org/web/20110312082046/http://www.tns-sofres.com/points-de-vue/EB82A50D23304F3389BF8AAAE3A154FB.aspx).” Ministère de l'économie, de l'industrie et de l'emploi et *TNS-Sofres.com*, 23 juin, 2010.
+Petit, G. et M.-C. Afota. "{{% resource_link "afc9bad8-ab2a-4e42-b7c5-58375b42c073" "Les Français, la France, et le tourisme" %}}.” Ministère de l'économie, de l'industrie et de l'emploi et *TNS-Sofres.com*, 23 juin, 2010.
 
-Gazzane, H. "[Les autocars pourraient lancer des liaisons nationales](http://www.lefigaro.fr/societes/2011/10/24/04015-20111024ARTFIG00716-les-autocars-pourraient-lancer-des-liaisons-nationales.php)." *Le Figaro*, 24 octobre, 2011.
+Gazzane, H. "{{% resource_link "c15229f2-e239-4ba3-8956-dfc045cffd38" "Les autocars pourraient lancer des liaisons nationales" %}}." *Le Figaro*, 24 octobre, 2011.
 
 Fourquet, J. et F. Dabi. "Les Français et l'interdiction du droit de grève lors des départs en vacances." IFOP avec Dimanche Ouest-France, 2011. 
 
-"[Leclerc doit cesser sa publicité sur les médicaments](http://lexpansion.lexpress.fr/entreprise/leclerc-doit-cesser-sa-publicite-sur-les-medicaments_225219.html)." *L'Expansion.com*, 22 janvier, 2010.
+"{{% resource_link "f7b4656b-1bd0-4389-9dc8-eb4d05df81e7" "Leclerc doit cesser sa publicité sur les médicaments" %}}." *L'Expansion.com*, 22 janvier, 2010.
 
-"[Hollande réservé sur la concurrence](http://www.lefigaro.fr/flash-actu/2011/09/28/97001-20110928FILWWW00621-hollande-reserve-sur-la-concurrence.php)." *Le Figaro*, 28 septembre, 2011.
+"{{% resource_link "3e172630-e4c4-4f1f-af60-70c7f363bc81" "Hollande réservé sur la concurrence" %}}." *Le Figaro*, 28 septembre, 2011.
 
 ## Week #9 — Les jeunes
 
-Kairos Future. "Les jeunesses face à leur avenir: une enquête internationale." Fondation Pour l'Innovation Politique, 2008. ([PDF](http://www.biop.cci-paris-idf.fr/upload/pdf/Etude-jeunesses-face-avenir.pdf))
+Kairos Future. "Les jeunesses face à leur avenir: une enquête internationale." Fondation Pour l'Innovation Politique, 2008. ({{% resource_link "4d218dcd-efa7-4377-a1d8-02e455f4d8ab" "PDF" %}})
 
-Henig, R. "[What Is It About 20-Somethings?](http://www.nytimes.com/2010/08/22/magazine/22Adulthood-t.html?_r=1&src=me&ref=homepage)" *The New York Times Magazine*, August 18, 2010.
+Henig, R. "{{% resource_link "5af713ee-4858-403c-9105-49cac97512c3" "What Is It About 20-Somethings?" %}}" *The New York Times Magazine*, August 18, 2010.
 
 Fourquet, J. "Barométre Jeunesse: Vague 3." IFOP, 2011.
 
 ## Week #10 — Les femmes
 
-Levenson, C. "[Hommes/femmes: des rapports opposés entre les Etats-Unis et la France](http://www.slate.fr/story/38941/france-etats-unis-seuils-tolerance-sexisme)." *Slate.fr*, 1 juin, 2011.
+Levenson, C. "{{% resource_link "cd47261b-fda0-46c0-8f17-2066b17eab6f" "Hommes/femmes: des rapports opposés entre les Etats-Unis et la France" %}}." *Slate.fr*, 1 juin, 2011.
 
-Pech, M.-E. "[Égalité homme-femme: les manuels scolaires dénoncés](http://www.lefigaro.fr/actualite-france/2011/11/24/01016-20111124ARTFIG00757-egalite-homme-femme-les-manuels-scolaires-denonces.php)." *Le Figaro*, 25 novembre, 2011.
+Pech, M.-E. "{{% resource_link "1b3a0e6a-aa4c-4134-9bf9-42893e2797d0" "Égalité homme-femme: les manuels scolaires dénoncés" %}}." *Le Figaro*, 25 novembre, 2011.
 
-Hater, F. "[À quoi rêvent les femmes américaines](http://www.lefigaro.fr/voyages/2009/07/23/03007-20090723ARTFIG00530--quoi-revent-les-femmes-americaines-.php)." *Le Figaro*, 23 juillet, 2009.
+Hater, F. "{{% resource_link "5e829f04-f7ad-42a6-8579-ac9d34290195" "À quoi rêvent les femmes américaines" %}}." *Le Figaro*, 23 juillet, 2009.
 
- [L'observatoire de la parité](https://web.archive.org/web/20130401093943/http://www.observatoire-parite.gouv.fr/)
+ {{% resource_link "7347c649-cd02-4042-86a7-cd70d3333973" "L'observatoire de la parité" %}}
 
 "Simone Weil au sujet de la parité homme-femme." Video. *Polémiques*, 10 mars 1996.
 
@@ -129,29 +129,29 @@ Hater, F. "[À quoi rêvent les femmes américaines](http://www.lefigaro.fr/voya
 
 ## Week #11 — Le système judiciaire: droit, loi, justice
 
-Cohen, M. and P. Trippenbach. "[Dominique Strauss-Kahn: la négociation de sa vie](https://web.archive.org/web/20111122013513/http://blog.citizenside.com/2011/05/19/dominique-strauss-kahn-dans-la-bataille-judiciaire/)." *CitizenSide Blog*, 19 mai, 2011.
+Cohen, M. and P. Trippenbach. "{{% resource_link "a6b4a697-cc96-4bd6-aaa0-75969dea3a3a" "Dominique Strauss-Kahn: la négociation de sa vie" %}}." *CitizenSide Blog*, 19 mai, 2011.
 
 "Affaire DSK : justice américaine, mode d'emploi." *Le Post*, 18 mai, 2011.
 
-Bouin, J. "[Affaire DSK: la gauche critique la justice américaine](http://www.lefigaro.fr/politique/2011/05/17/01002-20110517ARTFIG00459-affaire-dsk-la-justice-americaine-cible-de-la-gauche.php)." *Le Figaro*, 17 mai, 2011.
+Bouin, J. "{{% resource_link "8fd4c147-9b86-4794-a88f-ed9c3b9c014f" "Affaire DSK: la gauche critique la justice américaine" %}}." *Le Figaro*, 17 mai, 2011.
 
-Durand-Souffland, S. "[Les procureurs demandent à changer de statut](http://www.lefigaro.fr/actualite-france/2010/12/16/01016-20101216ARTFIG00729-les-procureurs-demandent-a-changer-destatut.php)." *Le Figaro*, 16 décembre, 2010.
+Durand-Souffland, S. "{{% resource_link "8457a470-89cb-424e-b430-89c3a70ab8be" "Les procureurs demandent à changer de statut" %}}." *Le Figaro*, 16 décembre, 2010.
 
-De Charette, L. "[Le parquet est souvent violemment attaqué](http://www.lefigaro.fr/actualite-france/2010/12/16/01016-20101216ARTFIG00637-le-parquet-est-souvent-violemment-attaque.php)." *Le Figaro*, 16 décembre, 2010.
+De Charette, L. "{{% resource_link "e4609a08-decf-4d2c-bfa1-c8fc64e0a130" "Le parquet est souvent violemment attaqué" %}}." *Le Figaro*, 16 décembre, 2010.
 
 Gladel, C. "France—États-Unis: choc de culture et civilisation." *Martin*, 17 mai, 2011.
 
-Giard, A. "[French lover et amour courtois](https://www.liberation.fr/debats/2011/06/22/french-lover-et-amour-courtois_1811943/)." *Libération*, 22 juin, 2011.
+Giard, A. "{{% resource_link "62a6a95a-e3a6-436d-9a4d-379b4091666b" "French lover et amour courtois" %}}." *Libération*, 22 juin, 2011.
 
-Audétat, M. "[Le «French lover», un mythe qui ne date pas d'hier](http://article.wn.com/view/2011/05/28/Le_French_lover_un_mythe_qui_ne_date_pas_d_hier/#/related_news)." *Le Matin Dimanche*, 28 mai, 2011.
+Audétat, M. "{{% resource_link "d4a16059-da36-4fc5-872b-b0466a34e8ac" "Le «French lover», un mythe qui ne date pas d'hier" %}}." *Le Matin Dimanche*, 28 mai, 2011.
 
 ## Week #12 — Le système politique: la France et l'Europe
 
 Le Marché Commun
 
-[Le Traité de Lisbonne](http://fr.wikipedia.org/wiki/Trait%C3%A9_de_Lisbonne)
+{{% resource_link "5436702b-1c83-4b61-a93c-2a51173f5acb" "Le Traité de Lisbonne" %}}
 
-[Europa, le site web officiel de l'Union européenne](http://europa.eu/index_fr.htm)
+{{% resource_link "d2412ed6-cae3-45bc-b0de-660c2eeeb066" "Europa, le site web officiel de l'Union européenne" %}}
 
 Carte des 27 états membres
 
@@ -159,17 +159,17 @@ Les 17 pays membres de la zone euro
 
 Carte de l'Europe économique
 
-[L'Europe et vous](http://ec.europa.eu/snapshot/index_fr.htm)
+{{% resource_link "25befb22-17ea-4365-8e2f-229d868ddb5b" "L'Europe et vous" %}}
 
 ## Week #13 — Travail sur le projet comparatif, présentations
 
-"[Les Indignés espagnols redonnent de la voix](http://www.lepoint.fr/monde/les-indignes-espagnols-redonnent-de-la-voix-13-11-2011-1395747_24.php)." *Le Point.fr*, 13 novembre, 2011.
+"{{% resource_link "44ef8793-82be-4e56-8e93-17ab5875fb4a" "Les Indignés espagnols redonnent de la voix" %}}." *Le Point.fr*, 13 novembre, 2011.
 
-"[Les Indignés manifestent dans le quartier de La Défense](http://www.lepoint.fr/societe/les-indignes-manifestent-dans-le-quartier-de-la-defense-12-11-2011-1395444_23.php)." *Le Point.fr*, 12 novembre, 2011.
+"{{% resource_link "e1f1abf4-6b97-4154-ac6b-fc49d9376404" "Les Indignés manifestent dans le quartier de La Défense" %}}." *Le Point.fr*, 12 novembre, 2011.
 
-Albertini, D. "[Pourquoi les Indignés français ne décollent-ils pas?](http://www.liberation.fr/societe/01012365277-pourquoi-les-indignes-francais-ne-decollent-ils-pas)" *Libération*, 12 octobre, 2011.
+Albertini, D. "{{% resource_link "74ce013b-2565-4750-9c47-3c9d4565fd1d" "Pourquoi les Indignés français ne décollent-ils pas?" %}}" *Libération*, 12 octobre, 2011.
 
-Mandeville, L. "[L'Amérique gagnée par 'l'indignation](http://www.lefigaro.fr/international/2011/10/09/01003-20111009ARTFIG00233-l-amerique-gagnee-par-l-indignation.php).'" *Le Figaro*, 9 octobre, 2011.
+Mandeville, L. "{{% resource_link "d62866a6-dd06-4012-b655-107829479dbe" "L'Amérique gagnée par 'l'indignation" %}}.'" *Le Figaro*, 9 octobre, 2011.
 
 ## Week #14
 
