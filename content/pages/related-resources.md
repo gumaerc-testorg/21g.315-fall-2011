@@ -13,22 +13,22 @@ Médias en Ligne
 
 ### La Presse
 
-*   {{% resource_link "76c18ee0-d0a1-4bca-8b24-74c796d5914d" "Le Figaro" %}}
-*   {{% resource_link "c204f4fc-4a38-4023-97bd-f26b19d392ac" "Le Monde" %}}
-*   {{% resource_link "dd568a32-41cf-47e8-ab3c-d13d904f24c0" "Libération" %}}
+*   [Le Figaro](http://www.lefigaro.fr/)
+*   [Le Monde](http://www.lemonde.fr/)
+*   [Libération](http://www.liberation.fr/)
 
 ### Journaux Télévisés
 
-*   {{% resource_link "e3a9ec4a-933e-463a-a7cb-a64b791a9ae3" "TV5 Monde" %}}
-*   {{% resource_link "1691463d-43ee-46e0-976b-7aaae980bf6e" "France 2 Télévision" %}}
+*   [TV5 Monde](http://www.tv5.org/)
+*   [France 2 Télévision](http://www.france2.fr/)
 
 ### La Radio
 
-*   {{% resource_link "12f74c21-6d7c-4125-8f22-2c9afb077e8b" "Radio France Internationale" %}}
+*   [Radio France Internationale](http://www.rfi.fr/)
 
 Sites de Grammaire et de Conjugaison
 ------------------------------------
 
-*   {{% resource_link "2d20bf70-800c-4221-956d-1b173f8bdad9" "Tex's French Grammar" %}}
-*   {{% resource_link "41c21ea7-944f-4dd3-ac81-e91f37169e33" "Le Point du FLE" %}}
-*   {{% resource_link "655afc5f-2779-44bd-b471-7f6f6a1ac11c" "Exercices ELFE" %}}
+*   [Tex's French Grammar](http://www.laits.utexas.edu/tex/gr/index.html)
+*   [Le Point du FLE](http://www.lepointdufle.net/)
+*   [Exercices ELFE](http://www.brown.edu/Departments/French/resources/elfe/index.php)
