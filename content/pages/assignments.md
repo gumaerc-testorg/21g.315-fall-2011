@@ -328,7 +328,7 @@ None (holiday)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 - Lisez *Les Français*, de la page 135 ("Les Américains qui séjournent en France…") à la page 140 ("… et à vivre en cohabitation avec leur nouveau partenaire"). Répondez aux questions page 3\*.
-- Regardez les chiffres publiés en 2008 dans l'article suivant: Levenson, C. "{{% resource_link "cd47261b-fda0-46c0-8f17-2066b17eab6f" "Hommes/femmes: des rapports opposés entre les Etats-Unis et la France" %}}." *Slate.fr*, Juin 1, 2011. Trouvez des chiffres comparatifs pour 2 de ces catégories aux Etats-Unis.
+- Regardez les chiffres publiés en 2008 dans l'article suivant: Levenson, C. "[Hommes/femmes: des rapports opposés entre les Etats-Unis et la France](http://www.slate.fr/story/38941/france-etats-unis-seuils-tolerance-sexisme)." *Slate.fr*, Juin 1, 2011. Trouvez des chiffres comparatifs pour 2 de ces catégories aux Etats-Unis.
 - Développez votre projet de fin de semestre. Regardez page 4\*.
 
 {{< tdclose >}}{{< tdopen >}}
