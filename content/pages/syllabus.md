@@ -25,13 +25,13 @@ L'objectif de ce cours est de vous aider à mieux connaître et comprendre la so
 
 Vous lirez également des textes, articles et documents divers qui vous seront distribués ou auxquels vous aurez accès en ligne. Il y aura également quelques vidéos à voir.
 
-Je vous encourage à regarder des films français en ligne (sur Netflix par exemple) ou sur place au Foreign Languages Resource Center. Le catalogue est à: {{% resource_link "b3b5e3fc-9c13-408c-a92a-5934cb043d9c" "http://fll.mit.edu/materials/catalogue/French" %}}. Il y a souvent des films français récents au Kendall theater, je les annoncerai.
+Je vous encourage à regarder des films français en ligne (sur Netflix par exemple) ou sur place au Foreign Languages Resource Center. Le catalogue est à: [http://fll.mit.edu/materials/catalogue/French](http://fll.mit.edu/materials/catalogue/French). Il y a souvent des films français récents au Kendall theater, je les annoncerai.
 
-Pendant toute la durée du semestre, vous devrez régulièrement lire la presse ({{% resource_link "76c18ee0-d0a1-4bca-8b24-74c796d5914d" "Le Figaro" %}}, {{% resource_link "c204f4fc-4a38-4023-97bd-f26b19d392ac" "Le Monde" %}}, {{% resource_link "dd568a32-41cf-47e8-ab3c-d13d904f24c0" "Libération" %}}) ou regarder des journaux télévisés ({{% resource_link "eb5edd35-7d3f-4676-be0f-2f196c2cd057" "France 2" %}}, {{% resource_link "e3a9ec4a-933e-463a-a7cb-a64b791a9ae3" "TV5" %}}) , ou la radio ({{% resource_link "12f74c21-6d7c-4125-8f22-2c9afb077e8b" "Radio France Internationale" %}}).
+Pendant toute la durée du semestre, vous devrez régulièrement lire la presse ([Le Figaro](http://www.lefigaro.fr/), [Le Monde](http://www.lemonde.fr/), [Libération](http://www.liberation.fr/)) ou regarder des journaux télévisés ([France 2](https://www.france.tv/france-2/), [TV5](http://www.tv5.org/)) , ou la radio ([Radio France Internationale](http://www.rfi.fr/)).
 
-Il y aura, en parallèle, un travail de développement du vocabulaire (par le biais de vos lectures et des listes de vocabulaire que vous établirez) et de grammaire communicative, en function de vos besoins. Il y a d'excellents sites de grammaire et de conjugaison en ligne ({{% resource_link "2d20bf70-800c-4221-956d-1b173f8bdad9" "Tex's French Grammar, Le Point du FLE, Exercices ELFE" %}}), apprenez à les utiliser. Nous en explorerons quelques-uns ensemble pour que vous puissiez travailler indépendamment.
+Il y aura, en parallèle, un travail de développement du vocabulaire (par le biais de vos lectures et des listes de vocabulaire que vous établirez) et de grammaire communicative, en function de vos besoins. Il y a d'excellents sites de grammaire et de conjugaison en ligne ([Tex's French Grammar, Le Point du FLE, Exercices ELFE](http://www.laits.utexas.edu/tex/gr/index.html)), apprenez à les utiliser. Nous en explorerons quelques-uns ensemble pour que vous puissiez travailler indépendamment.
 
-Procurez-vous un dictionnaire français (monolingue) et un dictionnaire anglais/français. Parmi les dictionnaires en ligne, je vous recommande {{% resource_link "e044b496-9d2a-4ff7-b432-c26c0d8a43fa" "Le Dictionnaire multifonctions de TV5" %}}.
+Procurez-vous un dictionnaire français (monolingue) et un dictionnaire anglais/français. Parmi les dictionnaires en ligne, je vous recommande [Le Dictionnaire multifonctions de TV5](http://dictionnaire.tv5.org/).
 
 ## Approche du cours
 
@@ -90,7 +90,7 @@ Le travail que vous me rendez doit absolument être votre travail personnel. Il 
 
 *Cheating, plagiarism, unauthorized collaboration, deliberate interference with the integrity of the work of others, fabrication or falsification of data, and other forms of academic dishonesty are considered serious offenses \[…\]. (MIT Policies and Procedures)*
 
-Pour toute question supplémentaire, vous pouvez consulter {{% resource_link "f7d32f79-a0f6-4dab-99e0-9840a497de59" "http://integrity.mit.edu/" %}}
+Pour toute question supplémentaire, vous pouvez consulter [http://integrity.mit.edu/](http://integrity.mit.edu/)
 
 *Bienvenue dans le cours et bon semestre!*
 
